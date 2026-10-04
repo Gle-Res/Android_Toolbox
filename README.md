@@ -1,6 +1,6 @@
-# 📱 安卓工具箱 (Android Toolbox)
+# Android_Toolbox
 
-🎉正式升级为安卓工具箱（具体请看CHANGELOG.md）！
+🎉正式升级为安卓工具箱（具体请看 [CHANGELOG.md](https://github.com/Gle-Res/Android_Toolbox/blob/main/CHANGELOG.md)）！
 
 一款基于 **ADB + scrcpy** 的安卓设备管理工具，图形化界面。
 
